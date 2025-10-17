@@ -1,5 +1,5 @@
 Author: Merox1dev
-### Version 4
+### Version 1
 
 (![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
 
