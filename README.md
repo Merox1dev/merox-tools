@@ -1,5 +1,6 @@
-Author: Merox1dev
-IG: @merox1dev
+# Merox tools v1.0
+## Author: Merox1dev
+## IG: @merox1dev
 ![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
 
 # Hacking Tools
