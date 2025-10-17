@@ -1,4 +1,4 @@
-Author: Merox1dev
+Created by: Merox1dev
 ### Version 1
 
 ![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
@@ -7,7 +7,13 @@ Author: Merox1dev
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
 • Powerful DDOS attack tool!!
+# Operating System Requirements
 
+• Android (Using the Termux App)
+
+• Linux (Debian Based Systems)
+
+• Unix
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
@@ -18,5 +24,5 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 # Warning
 
-I am not responsible for any misuse or damage resulting from this software. Use this tool at your own risk!
+Use this tool responsibly and at your own risk. The author is not liable for any harm, misuse, or unintended consequences.
 
