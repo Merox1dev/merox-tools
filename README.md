@@ -1,6 +1,5 @@
-Created by: Merox1dev
-### Version 1
-
+Author: Merox1dev
+IG: @merox1dev
 ![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
 
 # Hacking Tools
@@ -15,12 +14,12 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 
 • Unix
 
-# How to Install
-* Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/Merox1dev/merox-tools>`
-* `<merox-tools>`
-* `<bash merox.sh>`
-
+# How to Usage:
+```
+git clone  https://github.com/Merox1dev/merox-tools
+cd merox-tools
+bash merox.sh
+```
 
 # Warning
 
