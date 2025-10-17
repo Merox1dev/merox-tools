@@ -1,7 +1,7 @@
 Author: Merox1dev
 ### Version 1
 
-(![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
+![image](https://github.com/Merox1dev/merox-tools/blob/main/merox-tools.png)
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
