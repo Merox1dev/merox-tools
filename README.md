@@ -6,7 +6,11 @@ IG: @merox1dev
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
 • Powerful DDOS attack tool!!
-# Operating System Requirements
+# This Tool Tested On :
+Kali Linux
+Termux
+Parrot Sec OS
+Windows (WSL)
 
 • Android (Using the Termux App)
 
