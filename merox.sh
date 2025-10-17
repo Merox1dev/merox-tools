@@ -104,8 +104,8 @@ echo -e "\033[47;3;35m Before using it, hide your IP\033[0m"
 
 elif [[ $islem == 7 || $islem == 07 ]]; then
 clear
-echo "Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY"
-python3 -m webbrowser https://www.youtube.com/watch?v=zgdq6ErscqY
+echo "Youtube Video: https://www.youtube.com/watch?v=t2pOaL8rQNY&list=RDcZd__VI6L0Q&index=27"
+python3 -m https://www.youtube.com/watch?v=t2pOaL8rQNY&list=RDcZd__VI6L0Q&index=27
 sleep 10
 echo "Prisni 10 sekonda"
 bash merox.sh
