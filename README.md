@@ -9,9 +9,12 @@ Tools to help you with ethical hacking, Social media hack, phone info, Gmail att
 • Powerful DDOS attack tool!!
 # This Tool Tested On :
 Kali Linux
-Termux
-Parrot Sec OS
-Windows (WSL)
+
+• Termux
+
+• Parrot Sec OS
+
+• Windows (WSL)
 
 • Android (Using the Termux App)
 
